@@ -3,11 +3,14 @@
     "https://one.one.one.one/cdn-cgi/trace",
     "https://1.1.1.1/cdn-cgi/trace",
     "https://cp.cloudflare.com/cdn-cgi/trace",
+    "https://check-host.net/cdn-cgi/trace",
+    "https://www.speedtest.net/cdn-cgi/trace",
     "https://ifconfig.co/cdn-cgi/trace",
+    "https://iplocation.io/cdn-cgi/trace",
+    "https://whatismyipaddress.com/cdn-cgi/trace",
     "https://udemy.com/cdn-cgi/trace",
     "https://discord.com/cdn-cgi/trace",
     "https://tgju.org/cdn-cgi/trace",
-    "https://www.speedtest.net/cdn-cgi/trace",
     "https://chatgpt.com/cdn-cgi/trace",
     "https://www.coinbase.com/cdn-cgi/trace"
 ]
