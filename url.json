@@ -1,6 +1,5 @@
 [
     "https://connectivity.cloudflareclient.com/cdn-cgi/trace",
-    "http://connectivity.cloudflareclient.com/cdn-cgi/trace",
     "https://one.one.one.one/cdn-cgi/trace",
     "https://1.1.1.1/cdn-cgi/trace",
     "https://cp.cloudflare.com/cdn-cgi/trace",
@@ -11,5 +10,5 @@
     "https://whatismyipaddress.com/cdn-cgi/trace",
     "https://udemy.com/cdn-cgi/trace",
     "https://tgju.org/cdn-cgi/trace",
-    "https://www.coinbase.com/cdn-cgi/trace",
+    "https://www.coinbase.com/cdn-cgi/trace"
 ]
