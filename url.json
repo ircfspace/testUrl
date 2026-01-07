@@ -1,5 +1,5 @@
 [
-    "http://connectivity.cloudflareclient.com/cdn-cgi/trace",
+    "http://cp.cloudflare.com/cdn-cgi/trace",
     "https://connectivity.cloudflareclient.com/cdn-cgi/trace",
     "https://cp.cloudflare.com/cdn-cgi/trace",
     "https://check-host.net/cdn-cgi/trace",
